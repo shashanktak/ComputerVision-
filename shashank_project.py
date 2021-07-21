@@ -2,13 +2,13 @@
 """
 Created on Tue Jul 20 15:14:02 2021
 
-@author: jagri
+@author: Shashank Tak 
 """
 
 import cv2
 import pandas as pd
 
-img_path = r'C:\Users\jagri\Downloads\Color-Detection-OpenCV-main\Color-Detection-OpenCV-main\colorpic.jpg'
+img_path = r'C:\Users\Shashank\Downloads\Color-Detection-OpenCV-main\Color-Detection-OpenCV-main\colorpic.jpg'
 img = cv2.imread(img_path)
 
 
